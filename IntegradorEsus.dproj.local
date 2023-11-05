@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/28 16:55:47.000.901,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/06/12 13:00:24.000.058,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/06/12 13:01:08.000.874,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFPrincipal.dfm</Transaction>
+    <Transaction>2021/06/12 13:01:08.000.874,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFPrincipal.pas</Transaction>
+    <Transaction>2021/06/12 13:01:14.000.955,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\IntegradorEsus.dproj</Transaction>
+    <Transaction>2021/06/12 13:02:52.000.611,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\ABOUT.pas</Transaction>
+    <Transaction>2021/06/12 13:08:33.000.855,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFrmConfig.pas</Transaction>
+    <Transaction>2021/06/12 13:13:20.000.376,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uDM.pas</Transaction>
+    <Transaction>2021/06/12 13:16:11.000.349,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFuncoes.pas</Transaction>
+    <Transaction>2021/06/12 14:54:15.000.821,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.pas</Transaction>
+    <Transaction>2021/06/12 14:55:32.000.222,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.pas=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFCidadao.pas</Transaction>
+    <Transaction>2021/06/12 14:55:32.000.222,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.dfm=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFCidadao.dfm</Transaction>
+    <Transaction>2021/06/13 13:06:58.000.458,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGestantesInd1.pas</Transaction>
+    <Transaction>2021/06/17 16:15:59.000.608,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.pas</Transaction>
+    <Transaction>2021/06/17 16:16:24.000.118,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.dfm=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uMenuIndicadores.dfm</Transaction>
+    <Transaction>2021/06/17 16:16:24.000.118,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.pas=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uMenuIndicadores.pas</Transaction>
+    <Transaction>2021/06/18 12:11:26.000.085,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGestantesInd2.pas</Transaction>
+    <Transaction>2021/06/18 21:35:44.000.051,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGestantesInd3.pas</Transaction>
+    <Transaction>2021/06/19 16:32:43.000.463,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGestantesInd4.pas</Transaction>
+    <Transaction>2021/06/23 17:56:52.000.838,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGestantesInd5.pas</Transaction>
+    <Transaction>2021/07/17 17:24:23.000.492,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGestantesInd99.dfm=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGestantesInd1.dfm</Transaction>
+    <Transaction>2021/07/17 17:24:23.000.492,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGestantesInd99.pas=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGestantesInd1.pas</Transaction>
+    <Transaction>2021/07/17 17:25:13.000.974,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGestantesInd1.pas</Transaction>
+    <Transaction>2021/07/22 10:09:28.000.621,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGestantesInd6.pas</Transaction>
+    <Transaction>2021/07/22 11:58:33.000.800,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGestantesInd7.pas</Transaction>
+    <Transaction>2021/07/26 11:54:49.000.766,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uMenuCovid19.pas</Transaction>
+    <Transaction>2021/07/27 10:54:02.000.966,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 10:57:34.000.262,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.pas=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFImportacaoCSV.pas</Transaction>
+    <Transaction>2021/07/27 10:57:34.000.262,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.dfm=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFImportacaoCSV.dfm</Transaction>
+    <Transaction>2021/07/27 19:18:25.000.808,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFVacinacaoCovid.pas</Transaction>
+    <Transaction>2021/09/01 10:17:41.000.504,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uMenuGerarIndicadores.pas</Transaction>
+    <Transaction>2021/09/01 10:39:58.000.567,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.pas</Transaction>
+    <Transaction>2021/09/01 10:41:39.000.392,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.dfm=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGerarIndicador.dfm</Transaction>
+    <Transaction>2021/09/01 10:41:39.000.392,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.pas=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGerarIndicador.pas</Transaction>
+    <Transaction>2021/09/08 07:42:09.000.685,=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.pas</Transaction>
+    <Transaction>2021/09/08 07:42:45.000.542,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGraficosIndicadores.pas=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.pas</Transaction>
+    <Transaction>2021/09/08 07:42:45.000.542,C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\uFGraficosIndicadores.dfm=C:\Users\Marcelo Marques\Documents\Embarcadero\Studio\Projects\IntegradorEsus\Unit1.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ABOUT.pas"/>
+    <File Path="ABOUT.dfm"/>
+    <File Path="uDM.pas"/>
+    <File Path="uDM.dfm"/>
+    <File Path="uFCidadao.pas"/>
+    <File Path="uFCidadao.dfm"/>
+    <File Path="uFGerarIndicador.pas"/>
+    <File Path="uFGerarIndicador.dfm"/>
+    <File Path="uFGestantesInd1.pas"/>
+    <File Path="uFGestantesInd1.dfm"/>
+    <File Path="uFGestantesInd2.pas"/>
+    <File Path="uFGestantesInd2.dfm"/>
+    <File Path="uFGestantesInd3.pas"/>
+    <File Path="uFGestantesInd3.dfm"/>
+    <File Path="uFGestantesInd4.pas"/>
+    <File Path="uFGestantesInd4.dfm"/>
+    <File Path="uFGestantesInd5.pas"/>
+    <File Path="uFGestantesInd5.dfm"/>
+    <File Path="uFGestantesInd6.pas"/>
+    <File Path="uFGestantesInd6.dfm"/>
+    <File Path="uFGestantesInd7.pas"/>
+    <File Path="uFGestantesInd7.dfm"/>
+    <File Path="uFGestantesInd99.pas"/>
+    <File Path="uFGestantesInd99.dfm"/>
+    <File Path="uFGraficosIndicadores.pas"/>
+    <File Path="uFGraficosIndicadores.dfm"/>
+    <File Path="uFImportacaoCSV.pas"/>
+    <File Path="uFImportacaoCSV.dfm"/>
+    <File Path="uFPrincipal.pas"/>
+    <File Path="uFPrincipal.dfm"/>
+    <File Path="uFrmConfig.pas"/>
+    <File Path="uFrmConfig.dfm"/>
+    <File Path="uFuncoes.pas"/>
+    <File Path="uFVacinacaoCovid.pas"/>
+    <File Path="uFVacinacaoCovid.dfm"/>
+    <File Path="uMenuCovid19.pas"/>
+    <File Path="uMenuCovid19.dfm"/>
+    <File Path="uMenuGerarIndicadores.pas"/>
+    <File Path="uMenuGerarIndicadores.dfm"/>
+    <File Path="uMenuIndicadores.pas"/>
+    <File Path="uMenuIndicadores.dfm"/>
+  </ProjectSortOrder>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
